@@ -395,9 +395,9 @@ This project is released under the MIT License.
 If you use this repository in academic work, please cite it as:
 
 ```bibtex
-@misc{yourname2025churn,
+@misc{yashas shetty2025churn,
   title={A Production-Ready MLOps Framework for Customer Churn Prediction},
-  author={Your Name},
+  author={Yashas Shetty},
   year={2025},
   url={https://github.com/yourusername/churn-mlops}
 }
